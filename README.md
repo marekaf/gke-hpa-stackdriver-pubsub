@@ -1,5 +1,5 @@
 # HorizontalPodAutoscaler on Google Kubernetes Engine with external metrics from PubSub
-
+https://cloud.google.com/kubernetes-engine/docs/tutorials/external-metrics-autoscaling
 https://cloud.google.com/kubernetes-engine/docs/tutorials/authenticating-to-cloud-platform
 
 # provision GKE and PubSub with terraform
